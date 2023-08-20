@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184415161361",
+    "project_id": "washmachine-cdd22",
+    "storage_bucket": "washmachine-cdd22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184415161361:android:3a163833b545e0189fb5b0",
+        "android_client_info": {
+          "package_name": "com.example.bin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184415161361-rdueg47afuvjeb07iogjh0ujas6g4sdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdcXvbnZ37q5GNzhWdiHlwuu9-WS1nZwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184415161361-rdueg47afuvjeb07iogjh0ujas6g4sdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

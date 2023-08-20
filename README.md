@@ -1,0 +1,2 @@
+# Washing Mashine Slot
+ Flutter
